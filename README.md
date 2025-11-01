@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raja Guru R</h1>
-<h3 align="center">Team Lead | App Developer | AI Engineer | DevOps Engineer @ <a href="https://skillhive.innovations" target="_blank">Skill Hive Innovations</a></h3>
+<h3 align="center">Team Lead | App Developer | AI Engineer | DevOps Engineer @ <a href="https://skillhiveinnovations.com" target="_blank">Skill Hive Innovations</a></h3>
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
