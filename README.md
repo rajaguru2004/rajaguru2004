@@ -22,7 +22,7 @@
     <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/><br>Flutter</td>
     <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/><br>Dart</td>
     <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br>Node.js</td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/><br>Express.js</td>
+    <td align="center" width="80"><img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" width="40" height="40"/><br>Express.js</td>
     <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB</td>
     <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/><br>GraphQL</td>
   </tr>
