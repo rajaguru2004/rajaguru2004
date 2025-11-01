@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Raja Guru R</h1>
 <h3 align="center">Team Lead | App Developer | AI Engineer | DevOps Engineer @ <a href="https://skillhiveinnovations.com" target="_blank">Skill Hive Innovations</a></h3>
 
-<!-- Spacer to push image slightly downward -->
-<br><br>
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
-
 ---
+
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding GIF">
 
 ### 💼 About Me  
 - 👨‍💻 Founder & CEO of [**Skill Hive Innovations**](https://skillhiveinnovations.com) — Building intelligent mobile, web, and AI-powered ecosystems  
 - 💻 Former **Flutter App Developer** at [**The Reciprocal Solutions**](https://thereciprocalsolutions.com)  
 - 🌱 Passionate about **AI-driven development**, **cloud automation**, and **system orchestration**  
-- ⚡ Exploring **LangChain**, **Mistral**, and **Agentic AI systems** for smarter automation  
+- ⚡ Exploring **LangChain**, **Mistral**, and **Agentic AI systems** for smarter automation
+
+<br clear="right"/>  
 
 ---
 
@@ -75,7 +74,7 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/rajaguru2004" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajaguru2004" height="30" width="40" />
   </a>
@@ -87,6 +86,6 @@
 ---
 
 <p align="center">
-  <i>“Building smart solutions that empower the next generation of digital innovation.”</i><br>
+  <i>"Building smart solutions that empower the next generation of digital innovation."</i><br>
   — <b>Raja Guru R</b>
 </p>
