@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Raja Guru R</h1>
 <h3 align="center">Team Lead | App Developer | AI Engineer | DevOps Engineer @ <a href="https://skillhiveinnovations.com" target="_blank">Skill Hive Innovations</a></h3>
 
-<div align="right" style="padding-top: 80px;">
-  <img width="370" height="290" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
-</div>
+<!-- Spacer to push image slightly downward -->
+<br><br>
+
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 ---
 
