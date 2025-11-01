@@ -6,7 +6,7 @@
 ---
 
 ### 💼 About Me  
-- 👨‍💻 Founder & CEO of [**Skill Hive Innovations**](https://skillhive.innovations) — Building intelligent mobile, web, and AI-powered ecosystems  
+- 👨‍💻 Founder & CEO of [**Skill Hive Innovations**](https://skillhiveinnovations.com) — Building intelligent mobile, web, and AI-powered ecosystems  
 - 💻 Former **Flutter App Developer** at [**The Reciprocal Solutions**](https://thereciprocalsolutions.com)  
 - 🌱 Passionate about **AI-driven development**, **cloud automation**, and **system orchestration**  
 - ⚡ Exploring **LangChain**, **Mistral**, and **Agentic AI systems** for smarter automation  
