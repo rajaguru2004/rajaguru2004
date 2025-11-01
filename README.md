@@ -79,7 +79,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajaguru2004" height="30" width="40" />
   </a>
   <a href="https://github.com/rajaguru2004" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+    <img align="center" src="https://img.favpng.com/19/25/9/scalable-vector-graphics-github-computer-icons-logo-computer-file-png-favpng-GRYRADbE9437SkThu9hB2QtbQ.jpg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
