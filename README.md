@@ -6,7 +6,7 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding GIF">
 
 ### 💼 About Me  
-- 👨‍💻 Founder & CEO of [**Skill Hive Innovations**](https://skillhiveinnovations.com) — Building intelligent mobile, web, and AI-powered ecosystems  
+- 👨‍💻 AI Engineer [**Skill Hive Innovations**](https://skillhiveinnovations.com) — Building intelligent mobile, web, and AI-powered ecosystems  
 - 💻 **Full Stack App Developer & Dev Ops Engineer** at [**The Reciprocal Solutions**](https://thereciprocalsolutions.com)  
 - 🌱 Passionate about **AI-driven development**, **cloud automation**, and **system orchestration**  
 - ⚡ Exploring **LangChain**, **Mistral**, and **Agentic AI systems** for smarter automation
